@@ -1,0 +1,18 @@
+ConsumablesEat = {
+    [""] = math.random(35, 54),
+    [""] = math.random(40, 50),
+    [""] = math.random(35, 54),
+    [""] = math.random(40, 50),
+}
+
+ConsumablesDrink = {
+    [""] = math.random(35, 54),
+    [""] = math.random(35, 54),
+    [""] = math.random(40, 50),
+}
+
+ConsumablesAlcohol = {
+    [""] = math.random(20, 30),
+    [""] = math.random(30, 40),
+    [""] = math.random(20, 40),
+}
