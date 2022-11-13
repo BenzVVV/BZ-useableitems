@@ -1,7 +1,7 @@
 ConsumablesEat = {
-    [""] = math.random(35, 54),
-    [""] = math.random(40, 50),
-    [""] = math.random(35, 54),
+    ["butterfinger"] = math.random(10, 20),
+    ["lays-original-chips"] = math.random(35, 45),
+    ["sour-patch-kids"] = math.random(15, 25),
     [""] = math.random(40, 50),
 }
 

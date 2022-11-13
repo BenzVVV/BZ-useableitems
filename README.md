@@ -19,10 +19,40 @@ INSTALL:
 **WILL BE UPDATED REGULARLY** 
 **FEEL FREE TO MAKE A PR** 
 
-CURRENT ITEMS:
+CURRENT ITEMS:  [-] = added fully
 
 FOOD:
+[-] butterfinger 
+[-] lays-original-chips
+[-] sour-patch-kids
+twix
+hersheys chocolate bar
+french fries
+hamburger
+hotdog
+milky way
+3 musketeers
+reeses cups
 
 DRINK:
+monster
+nos
+mtn dew
+mtn dew code red
+coke
+diet coke
+pepsi
+diet pepsi
 
 ALCAHOL:
+rum
+parrot bay coconut rum
+vodka
+shy blue vodka
+five oclock vodka
+whiskey
+canada dry whiskey
+brandy
+e & j brandy
+e & j green apple
+crown royale
