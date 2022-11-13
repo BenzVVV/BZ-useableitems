@@ -33,6 +33,9 @@ hotdog,
 milky way,
 3 musketeers,
 reeses cups,
+gushers,
+friut roll up,
+laffy taffy,
 
 DRINK:
 monster,
@@ -43,6 +46,13 @@ coke,
 diet coke,
 pepsi,
 diet pepsi,
+milk,
+chocolate milk,
+strawberry milk,
+ginger ale,
+7up,
+sprite,
+
 
 ALCAHOL:
 rum,
@@ -56,3 +66,6 @@ brandy,
 e & j brandy,
 e & j green apple,
 crown royale,
+
+MISC:
+weed card (not useable just a good item to have in city),
