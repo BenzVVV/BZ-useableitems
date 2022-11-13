@@ -77,3 +77,5 @@ crown royale,
 
 MISC:
 weed card (not useable just a good item to have in city),
+fishing license (not useable just a good item to have in city),
+hunting license (not useable just a good item to have in city),
