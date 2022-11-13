@@ -22,23 +22,31 @@ INSTALL:
 CURRENT ITEMS:  [-] = added fully
 
 FOOD:
+11/12/22
 [-] butterfinger, 
 [-] lays-original-chips,
 [-] sour-patch-kids,
 [-] twix,
 [-] hersheys-chocolate-bar,
 [-] french-fries,
-hamburger,
-hotdog,
-milky way,
-3 musketeers,
-reeses cups,
-gushers,
-friut roll up,
+11/13/22
+[-] hamburger,
+[-] hotdog,
+[-] milky-way,
+[-] 3-musketeers,
+[-] reeses-cups,
+[-] gushers,
+[-] friut-roll-up,
 laffy taffy,
+cooked salmon,
+cooked cod,
+grape popcicle,
+cherry popcicle,
+orange popcicle,
 
 DRINK:
 monster,
+monster java,
 nos,
 mtn dew,
 mtn dew code red,
