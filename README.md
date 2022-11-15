@@ -37,9 +37,10 @@ FOOD:
 [-] reeses-cups,
 [-] gushers,
 [-] friut-roll-up,
-laffy taffy,
-cooked salmon,
-cooked cod,
+11/15/22
+[-] laffy-taffy,
+[-] cooked-salmon,
+[-] cooked-cod,
 grape popcicle,
 cherry popcicle,
 orange popcicle,

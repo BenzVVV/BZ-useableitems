@@ -12,9 +12,9 @@ ConsumablesEat = {
     ["reeses-cups"] = math.random(10, 20),
     ["gushers"] = math.random(10, 20),
     ["friut-roll-up"] = math.random(10, 20),
-    [""] = math.random(35, 54),
-    [""] = math.random(35, 54),
-    [""] = math.random(35, 54),
+    ["laffy-taffy"] = math.random(10, 20),
+    ["cooked-salmon"] = math.random(40, 50),
+    ["cooked-cod"] = math.random(40, 50),
     [""] = math.random(35, 54),
     [""] = math.random(35, 54),
 }
