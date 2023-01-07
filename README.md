@@ -10,11 +10,9 @@ INSTALL:
 
 3. add the contents of qb-smallresources-files/config-items to qb-smallresources/config
 
-4. add the contents of qb-smallresources-files/consumables-items to qb-smallresources/server/consumables
+4. restart your server 
 
-5. restart your server 
-
-6. Enjoy
+5. Enjoy
 
 **WILL BE UPDATED REGULARLY** 
 **FEEL FREE TO MAKE A PR** 
